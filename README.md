@@ -2,7 +2,7 @@
 Report Link : http://www.ejanma.karnataka.gov.in/frmVitalSat.aspx
 * Packages Used : tabulizer,reshape,ggplot2
 * Key Tasks
-- [] Extracted data accurately from the given PDF files done semi-automatically, i.e., without having to re-type the data.
+- Extracted data accurately from the given PDF files done semi-automatically, i.e., without having to re-type the data.
 - Load the data into R
 - Compute basic statistics for the data using R (i.e., min, max, mean, median, mode, variance, std deviation, IQR, etc.)
 - Detect any outliers in the chosen data
